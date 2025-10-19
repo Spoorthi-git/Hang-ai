@@ -1,0 +1,6 @@
+geopy
+textblob
+colorama
+rich
+folium
+requests
